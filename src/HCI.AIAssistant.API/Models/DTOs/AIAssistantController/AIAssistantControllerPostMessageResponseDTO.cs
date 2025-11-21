@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace HCI.AIAssistant.API.Models.DTOs.AIAssistantController;
 
-public class AIAssitantControllerPostMessageResponseDTO
+public class AIAssistantControllerPostMessageResponseDTO
 {
     public string? TextMessage { get; set; }
 }
